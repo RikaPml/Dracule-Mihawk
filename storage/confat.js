@@ -313,10 +313,10 @@ exports.donasi = () => {
   return`Jika Ingin Melakukan Donasi Diharapkan Untuk Melakukan Scan Qr Code Diatas
 
 Rental Bot WhatsApp :
-📆 10k/Minggu
+📆 5k/Minggu
 📆 20k/Bulan
-📆 100k/Tahun
-🍒 Permanen? Buat Bot Sendiri
+📆 15k/Permanen
+🍒 Jadi Bot? Ketik .owner
 `
 }
 
